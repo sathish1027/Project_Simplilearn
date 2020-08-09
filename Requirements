@@ -12,7 +12,3 @@
 10.   Now modify the branch2 and commit and push to remote again
 11.   Now on local go to branch2 and rebase the branch1 to branch2 and then push it again.
 12.   Once done, raise a pull request again and I will accept or reject the same.
-
-
-
-		Simplilearn Git and Git Hub project by Naveen Kumar S
